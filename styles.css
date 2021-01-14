@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-color: #34495E;
+}
+
+p {
+  color: white;
+  font-size: 1rem;
+}
+
+.title {
+  font-size: 4rem;
+  margin:  3%;
+  color: white;
+}
+
+.container{
+  margin: 20px auto;
+}
+
+.btn {
+  margin: 20px;
+  display: inline-block;
+  height: 175px;
+  width: 175px;
+  border: 7px solid black;
+  border-radius: 10%;
+  outline:none;
+}
+
+.game-over {
+  background-color: #A93226;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.clicked {
+  box-shadow: 0 0 20px white;
+  background-color: lightgray;
+}
